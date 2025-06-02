@@ -1,4 +1,4 @@
-# 안녕하세요, 조성근입니다! 👋
+# 안녕하세요, 조성근입니다! 
 
 ## About Me
 저는 새로운 도전을 즐기며 기술과 창의성을 바탕으로 문제를 해결하는 개발자입니다. 
@@ -36,5 +36,18 @@
 | **IDE**      | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white) |
 | **배포 및 협업** | ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Hancom Docs](https://img.shields.io/badge/Hancom%20Docs-0054A6?style=flat-square&logo=googledocs&logoColor=white) |
 
+## Github Stats
+
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=JoSeongGeun&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>
+
+<div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoSeongGeun&show_icons=true&locale=en&layout=compact" alt="choijaewoon" align="center" /></div>  
+
+<br/>
+
+<div align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JoSeongGeun&" alt="choijaewoon" align="center" /></div>  
+
+<br/>
 
 *프로필에 방문해 주셔서 감사합니다!*
