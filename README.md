@@ -39,15 +39,10 @@
 ## Github Stats
 
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=JoSeongGeun&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
 <br/>
-
 <div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoSeongGeun&show_icons=true&locale=en&layout=compact" alt="choijaewoon" align="center" /></div>  
-
 <br/>
-
 <div align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JoSeongGeun&" alt="choijaewoon" align="center" /></div>  
-
 <br/>
 
 *프로필에 방문해 주셔서 감사합니다!*
