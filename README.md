@@ -7,6 +7,7 @@
 ## Projects
 
 - **STOCKPANZEE**
+  
     [자세히 보기](https://github.com/rkdsan1013/smhrd-stockpanzee)
   
     본 프로젝트는 `RAG(Retrieval-Augmented Generation)` 및 `LLM(Large Language Model)` 기술을 활용하여,
