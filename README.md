@@ -5,6 +5,27 @@
 다양한 프로젝트 경험을 통해 성장해왔으며, 항상 배우고 나누는 것을 좋아합니다.
 
 ## Projects
+
+- **STOCKPANZEE**
+    [자세히 보기](https://github.com/rkdsan1013/smhrd-stockpanzee)
+  
+    본 프로젝트는 `RAG(Retrieval-Augmented Generation)` 및 `LLM(Large Language Model)` 기술을 활용하여,
+  
+    실시간 투자 정보(뉴스, 공시, 차트 등)를 수집, 요약, 분석하여 개인 투자자에게 빠르고 정확한 의사결정을 지원하는 통합 웹 서비스입니다.
+
+## 🛠️ 사용 언어 및 도구
+
+| 구분                   | 기술 스택                                                                                             |
+|------------------------|--------------------------------------------------------------------------------------------------------|
+| **사용 언어**            | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)        |
+| **라이브러리 / 프레임워크** | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white) |
+| **인증 / 보안**          | ![JWT](https://img.shields.io/badge/JWT-000000?logo=JSON%20web%20tokens&logoColor=white)             |
+| **개발 도구**            | ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)       |
+| **서버 환경**            | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![WebSocket](https://img.shields.io/badge/WebSocket-010101?logo=websocket&logoColor=white) |
+| **데이터베이스**         | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  [![PGVector](https://img.shields.io/badge/PGVector-PostgreSQL%20Vector%20Extension-blue)](https://github.com/pgvector/pgvector)                     |
+| **협업 도구**            | ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white) ![Hancom](https://img.shields.io/badge/Hancom_Docs-0078D4?logo=microsoftword&logoColor=white) |
+| **배포 / 인프라**        | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Naver Cloud](https://img.shields.io/badge/Naver_Cloud_Platform-03C75A?logo=naver&logoColor=white) [![Linux](https://img.shields.io/badge/Linux-lightgrey?logo=linux)](https://www.kernel.org/) |
+
 - **Project Py**  
   [자세히 보기](https://github.com/JoSeongGeun/project_py)  
   파이썬을 활용한 프로젝트로, Plan My Wedding - 예식장 추천 시스템에 들어가는 부분입니다.
