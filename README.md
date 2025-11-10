@@ -67,4 +67,6 @@
 <div align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JoSeongGeun&" alt="choijaewoon" align="center" /></div>  
 <br/>
 
+
+*프로필에 방문해 주셔서 감사합니다!*
 *프로필에 방문해 주셔서 감사합니다!*
